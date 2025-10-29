@@ -10,31 +10,12 @@ Each task demonstrates a specific computer vision technique. Click on a task to 
 
 | Task | Description |
 |------|-------------|
-| [Object Identification](#-object-identification) | Recognising different types of spare parts and colour coding them |
 | [Fault Detection](#fault-detection) | Detect and highlight faulty objects on production line |
 | [PCB Trace Detection](#trace-detection) | Detect and highlight faulty objects on production line |
 | [Gamma Correction](#gamma-correction) | Improve image visibility |
 | [Crack Detection](#crack-detection) | Detect cracks generated in structural elements |
 | [Image Stitching](#image-stitching) | Generating maps from aerial images |
 | [Edge Detection](#edge-detection) | Extracting edges using Canny and Sobel operators |
-
----
-
-## 🧹 Object Identification
-
-| Before | After |
-|--------|-------|
-| ![Before processing](images\obj_identification\all-parts.png) | ![After Processing](images\obj_identification\all-parts-output.png) |
-
-**Blue**: Ring Terminal
-
-**Red**: Spade Terminal
-
-**Violet**: Washer
-
-**Green**: Internal Lock Washer
-
-**Yellow**: External Lock Washer
 
 ---
 
