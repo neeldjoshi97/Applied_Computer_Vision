@@ -102,4 +102,4 @@ Each task demonstrates a specific computer vision technique. Click on a task to 
 
 ## 📜 License
 
-This work is licensed under the MIT License.
+This work is licensed under the Creative Commons CC by 4.0 License.
