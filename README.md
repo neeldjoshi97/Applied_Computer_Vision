@@ -1,6 +1,6 @@
 # Applied Computer Vision — Showcase
 
-Welcome to my portfolio of end results from the **Computer Vision for Engineers** course. This repository highlights key image processing tasks with brief descriptions.
+Welcome to my portfolio of end results from the **Computer Vision for Engineers** course at [Carnegie Mellon University](https://www.cmu.edu). This repository highlights key image processing tasks with brief descriptions.
 
 ---
 
